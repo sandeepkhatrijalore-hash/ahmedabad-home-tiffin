@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR_USERNAME.github.io/ahmedabad-home-tiffin/sitemap.xml
+Sitemap: https:/sandeepkhatrijalore-hash.io/ahmedabad-home-tiffin/sitemap.xml
