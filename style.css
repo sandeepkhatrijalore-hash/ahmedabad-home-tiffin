@@ -274,7 +274,7 @@
         /* Hero Section */
         .hero {
             padding: 160px 0 100px;
-            background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80');
+            background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fG[...]');
             background-size: cover;
             background-position: center;
             color: white;
@@ -533,7 +533,7 @@
             margin-bottom: 15px;
         }
         
-        /* Testimonials */
+        /* Testimonials */ 
         .testimonial-slider {
             max-width: 800px;
             margin: 3rem auto 0;
