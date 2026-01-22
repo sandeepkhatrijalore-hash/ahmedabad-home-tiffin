@@ -1,4 +1,3 @@
 User-agent: *
-Allow: /
-
-Sitemap: https:/sandeepkhatrijalore-hash.io/ahmedabad-home-tiffin/sitemap.xml
+Disallow:
+Sitemap: https://ahmedabadhometiffin.com/sitemap.xml
